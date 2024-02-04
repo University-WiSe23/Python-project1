@@ -1,2 +1,2 @@
 # Python-project1
-First porject (first semester)
+First project (first semester)
